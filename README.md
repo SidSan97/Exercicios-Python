@@ -51,3 +51,11 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
   <H3 align="center"> EXERCICÍO 11 </H3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2011.PNG" width="100%" height="500px">
+    
+  <H3 align="center"> EXERCICÍO 12 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2012.PNG" width="100%" height="500px">
+    
+  <H3 align="center"> EXERCICÍO 13 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2013.PNG" width="100%" height="500px">
