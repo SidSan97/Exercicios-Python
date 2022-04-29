@@ -30,6 +30,8 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2006.PNG" width="100%" height="500px">
   
+  <H1 align="center"> IF/ELSE <H1>
+  
   <H3 align="center"> EXERCICÍO 7 </H3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2007.PNG" width="100%" height="500px">
