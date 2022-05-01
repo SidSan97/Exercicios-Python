@@ -60,7 +60,7 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2013.PNG" width="100%" height="500px">
     
-    <H1 align="center"> LOOP <H1>
+  <H1 align="center"> LOOP <H1>
   
   <H3 align="center"> EXERCICÍO 14 </H3>
 
