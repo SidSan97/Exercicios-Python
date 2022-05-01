@@ -59,3 +59,34 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
   <H3 align="center"> EXERCICÍO 13 </H3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2013.PNG" width="100%" height="500px">
+    
+    <H1 align="center"> LOOP <H1>
+  
+  <H3 align="center"> EXERCICÍO 7 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2014.PNG" width="100%" height="500px">
+  
+  <H3 align="center"> EXERCICÍO 8 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2015.PNG" width="100%" height="500px">
+  
+  <H3 align="center"> EXERCICÍO 9 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2016.PNG" width="100%" height="500px">
+  
+  <H3 align="center"> EXERCICÍO 10 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2017.PNG" width="100%" height="500px">
+  
+  <H3 align="center"> EXERCICÍO 11 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2018.PNG" width="100%" height="500px">
+    
+  <H3 align="center"> EXERCICÍO 12 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2019.PNG" width="100%" height="500px">
+    
+  <H3 align="center"> EXERCICÍO 13 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2020.PNG" width="100%" height="500px">
+
