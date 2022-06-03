@@ -30,6 +30,14 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2006.PNG" width="100%" height="500px">
   
+  <H3 align="center"> PROVA 01 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 01.jpg" width="100%" height="500px">
+  
+  <H3 align="center"> PROVA 02 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 02.jpg" width="100%" height="500px">
+  
   <H1 align="center"> IF/ELSE <H1>
   
   <H3 align="center"> EXERCICÍO 7 </H3>
@@ -60,7 +68,7 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2013.PNG" width="100%" height="500px">
     
-  <H1 align="center"> LOOP <H1>
+  <H1 align="center"> LOOP </H1>
   
   <H3 align="center"> EXERCICÍO 14 </H3>
 
@@ -86,29 +94,47 @@ Repositórios contendo provas e lista de exercícios  feitos em Python para a di
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2019.PNG" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 20 </H3>
+     <H3 align="center"> PROVA 03 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 03.jpg" width="100%" height="500px">
+  
+  <H3 align="center"> PROVA 04 </H3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 04.jpg" width="100%" height="500px">
+
+  <h1 align="center"> VETORES <h1>
+    
+     <h3 align="center"> EXERCICÍO 20 </h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2020.jpg" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 21 </H3>
+     <h3 align="center"> EXERCICÍO 21 <h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2021.jpg" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 22 </H3>
+     <h3 align="center"> EXERCICÍO 22 </h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2022.jpg" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 23 </H3>
+     <h3 align="center"> EXERCICÍO 23 </h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2023.jpg" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 24 </H3>
+     <h3 align="center"> EXERCICÍO 24 </h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2024.jpg" width="100%" height="500px">
     
-     <H3 align="center"> EXERCICÍO 25 </H3>
+     <h3 align="center"> EXERCICÍO 25 </h3>
 
   <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Exercicio%2025.jpg" width="100%" height="500px">
+
+ <h3 align="center"> PROVA 05 </h3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 05.jpg" width="100%" height="500px">
+  
+  <h3 align="center"> PROVA 06 </h3>
+
+  <img src="https://github.com/SidSan97/Exercicios-Python/blob/main/img/Prova 06.jpg" width="100%" height="500px">
     
 
 
